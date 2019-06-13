@@ -8,7 +8,12 @@
 ```
   bs4
 ```
-## Execute :
+### How to install Requirements?
+(in cmd/terminal type following)
+```
+  python -m pip install beautifulsoup4 requests
+```
+## Execute/Run :
 ```
    python lynda_downloader.py
 ```
